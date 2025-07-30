@@ -1,3 +1,7 @@
+## DEMO: 3D Models in React Native with React Three Fiber
+
+![Demo](3d-modeling.gif)
+
 # 3D Models in React Native using React Three Fiber
 
 This project showcases how to render and interact with 3D models in a React Native environment using React Three Fiber and Three.js. It features a drone and Starlink model that users can rotate, zoom in, and explore.
